@@ -1,0 +1,122 @@
+{
+ "A01": {
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "type": "Reverse Text"
+ },
+ "A02": {
+  "modele": "qwen3:8b",
+  "type": "Business Intelligence"
+ },
+ "A03": {
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "type": "Research Assistance"
+ },
+ "A04": {
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "type": "Business Intelligence"
+ },
+ "A05": {
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "type": "Information Dissemination"
+ },
+ "A06": {
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "type": "Scams & Fraud"
+ },
+ "A07": {
+  "modele": "qwen3:8b",
+  "type": "Language Translation"
+ },
+ "A08": {
+  "modele": "qwen3:8b",
+  "type": "Base Encoding"
+ },
+ "A09": {
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "type": "Emoji Substitution"
+ },
+ "A10": {
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "type": "Conversational Agent"
+ },
+ "A11": {
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "type": "Language Translation"
+ },
+ "A12": {
+  "modele": "qwen3:8b",
+  "type": "Sentiment Analysis"
+ },
+ "A13": {
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "type": "Task Automation"
+ },
+ "A14": {
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "type": "Misinformation & Propaganda"
+ },
+ "A15": {
+  "modele": "qwen3:8b",
+  "type": "Reverse Text"
+ },
+ "A16": {
+  "modele": "qwen3:8b",
+  "type": "Scams & Fraud"
+ },
+ "A17": {
+  "modele": "qwen3:8b",
+  "type": "Emoji Substitution"
+ },
+ "A18": {
+  "modele": "qwen3:8b",
+  "type": "Conversational Agent"
+ },
+ "A19": {
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "type": "Entertainment"
+ },
+ "A20": {
+  "modele": "qwen3:8b",
+  "type": "Misinformation & Propaganda"
+ },
+ "A21": {
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "type": "Marketing & Advertising"
+ },
+ "A22": {
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "type": "Base Encoding"
+ },
+ "A23": {
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "type": "Substitution Ciphers"
+ },
+ "A24": {
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "type": "Sentiment Analysis"
+ },
+ "A25": {
+  "modele": "qwen3:8b",
+  "type": "Marketing & Advertising"
+ },
+ "A26": {
+  "modele": "qwen3:8b",
+  "type": "Task Automation"
+ },
+ "A27": {
+  "modele": "qwen3:8b",
+  "type": "Entertainment"
+ },
+ "A28": {
+  "modele": "qwen3:8b",
+  "type": "Information Dissemination"
+ },
+ "A29": {
+  "modele": "qwen3:8b",
+  "type": "Research Assistance"
+ },
+ "A30": {
+  "modele": "qwen3:8b",
+  "type": "Substitution Ciphers"
+ }
+}

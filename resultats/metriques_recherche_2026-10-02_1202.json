@@ -1,0 +1,1116 @@
+{
+ "date": "2026-10-02_1202",
+ "top_k": 5,
+ "resume": {
+  "v1": {
+   "n_cibles": 30,
+   "recall@5_article": 0.933,
+   "MRR_article": 0.822,
+   "recall@5_document": 1.0,
+   "MRR_document": 0.928
+  },
+  "v2": {
+   "n_cibles": 30,
+   "recall@5_article": 0.933,
+   "MRR_article": 0.828,
+   "recall@5_document": 1.0,
+   "MRR_document": 0.933
+  },
+  "v3": {
+   "n_cibles": 30,
+   "recall@5_article": 0.933,
+   "MRR_article": 0.828,
+   "recall@5_document": 1.0,
+   "MRR_document": 0.933
+  },
+  "v4": {
+   "n_cibles": 30,
+   "recall@5_article": 1.0,
+   "MRR_article": 0.898,
+   "recall@5_document": 1.0,
+   "MRR_document": 0.958
+  }
+ },
+ "detail": [
+  {
+   "pipeline": "v1",
+   "id": "Q01",
+   "jeu": "dev",
+   "cible": "FINMA_circ",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q02",
+   "jeu": "dev",
+   "cible": "FINMA_comm",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q03",
+   "jeu": "dev",
+   "cible": "FINMA_comm",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q04",
+   "jeu": "dev",
+   "cible": "LBA_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q05",
+   "jeu": "dev",
+   "cible": "LBA_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q06",
+   "jeu": "dev",
+   "cible": "LPD_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q07",
+   "jeu": "dev",
+   "cible": "FINMA_circ",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q08",
+   "jeu": "dev",
+   "cible": "LBA_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q09",
+   "jeu": "dev",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q10",
+   "jeu": "dev",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q12",
+   "jeu": "dev",
+   "cible": "ORION",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q15",
+   "jeu": "dev",
+   "cible": "P-PAY-03",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q16",
+   "jeu": "dev",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 2,
+   "rang_document": 2
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q16",
+   "jeu": "dev",
+   "cible": "P-PAY-03",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q17",
+   "jeu": "test",
+   "cible": "LPD_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q18",
+   "jeu": "test",
+   "cible": "LBA_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q19",
+   "jeu": "test",
+   "cible": "LPD_",
+   "article": "",
+   "rang_article": 2,
+   "rang_document": 2
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q20",
+   "jeu": "test",
+   "cible": "P-PAY-03",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q21",
+   "jeu": "test",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q23",
+   "jeu": "test",
+   "cible": "T-01",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q24",
+   "jeu": "test",
+   "cible": "M-ONB-02",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q25",
+   "jeu": "test2",
+   "cible": "FINMA_circ",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q26",
+   "jeu": "test2",
+   "cible": "LBA_",
+   "article": "6",
+   "rang_article": "absent",
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q27",
+   "jeu": "test2",
+   "cible": "LBA_",
+   "article": "10a",
+   "rang_article": "absent",
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q28",
+   "jeu": "test2",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q29",
+   "jeu": "test2",
+   "cible": "LPD_",
+   "article": "24",
+   "rang_article": 3,
+   "rang_document": 2
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q30",
+   "jeu": "test2",
+   "cible": "LBA_",
+   "article": "9",
+   "rang_article": 2,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q31",
+   "jeu": "test2",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q31",
+   "jeu": "test2",
+   "cible": "M-ONB-02",
+   "article": "",
+   "rang_article": 3,
+   "rang_document": 3
+  },
+  {
+   "pipeline": "v1",
+   "id": "Q34",
+   "jeu": "test2",
+   "cible": "LPD_",
+   "article": "12",
+   "rang_article": 2,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q01",
+   "jeu": "dev",
+   "cible": "FINMA_circ",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q02",
+   "jeu": "dev",
+   "cible": "FINMA_comm",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q03",
+   "jeu": "dev",
+   "cible": "FINMA_comm",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q04",
+   "jeu": "dev",
+   "cible": "LBA_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q05",
+   "jeu": "dev",
+   "cible": "LBA_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q06",
+   "jeu": "dev",
+   "cible": "LPD_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q07",
+   "jeu": "dev",
+   "cible": "FINMA_circ",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q08",
+   "jeu": "dev",
+   "cible": "LBA_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q09",
+   "jeu": "dev",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q10",
+   "jeu": "dev",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q12",
+   "jeu": "dev",
+   "cible": "ORION",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q15",
+   "jeu": "dev",
+   "cible": "P-PAY-03",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q16",
+   "jeu": "dev",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 2,
+   "rang_document": 2
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q16",
+   "jeu": "dev",
+   "cible": "P-PAY-03",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q17",
+   "jeu": "test",
+   "cible": "LPD_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q18",
+   "jeu": "test",
+   "cible": "LBA_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q19",
+   "jeu": "test",
+   "cible": "LPD_",
+   "article": "",
+   "rang_article": 2,
+   "rang_document": 2
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q20",
+   "jeu": "test",
+   "cible": "P-PAY-03",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q21",
+   "jeu": "test",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q23",
+   "jeu": "test",
+   "cible": "T-01",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q24",
+   "jeu": "test",
+   "cible": "M-ONB-02",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q25",
+   "jeu": "test2",
+   "cible": "FINMA_circ",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q26",
+   "jeu": "test2",
+   "cible": "LBA_",
+   "article": "6",
+   "rang_article": "absent",
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q27",
+   "jeu": "test2",
+   "cible": "LBA_",
+   "article": "10a",
+   "rang_article": "absent",
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q28",
+   "jeu": "test2",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q29",
+   "jeu": "test2",
+   "cible": "LPD_",
+   "article": "24",
+   "rang_article": 3,
+   "rang_document": 2
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q30",
+   "jeu": "test2",
+   "cible": "LBA_",
+   "article": "9",
+   "rang_article": 2,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q31",
+   "jeu": "test2",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q31",
+   "jeu": "test2",
+   "cible": "M-ONB-02",
+   "article": "",
+   "rang_article": 2,
+   "rang_document": 2
+  },
+  {
+   "pipeline": "v2",
+   "id": "Q34",
+   "jeu": "test2",
+   "cible": "LPD_",
+   "article": "12",
+   "rang_article": 2,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q01",
+   "jeu": "dev",
+   "cible": "FINMA_circ",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q02",
+   "jeu": "dev",
+   "cible": "FINMA_comm",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q03",
+   "jeu": "dev",
+   "cible": "FINMA_comm",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q04",
+   "jeu": "dev",
+   "cible": "LBA_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q05",
+   "jeu": "dev",
+   "cible": "LBA_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q06",
+   "jeu": "dev",
+   "cible": "LPD_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q07",
+   "jeu": "dev",
+   "cible": "FINMA_circ",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q08",
+   "jeu": "dev",
+   "cible": "LBA_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q09",
+   "jeu": "dev",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q10",
+   "jeu": "dev",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q12",
+   "jeu": "dev",
+   "cible": "ORION",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q15",
+   "jeu": "dev",
+   "cible": "P-PAY-03",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q16",
+   "jeu": "dev",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 2,
+   "rang_document": 2
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q16",
+   "jeu": "dev",
+   "cible": "P-PAY-03",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q17",
+   "jeu": "test",
+   "cible": "LPD_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q18",
+   "jeu": "test",
+   "cible": "LBA_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q19",
+   "jeu": "test",
+   "cible": "LPD_",
+   "article": "",
+   "rang_article": 2,
+   "rang_document": 2
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q20",
+   "jeu": "test",
+   "cible": "P-PAY-03",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q21",
+   "jeu": "test",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q23",
+   "jeu": "test",
+   "cible": "T-01",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q24",
+   "jeu": "test",
+   "cible": "M-ONB-02",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q25",
+   "jeu": "test2",
+   "cible": "FINMA_circ",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q26",
+   "jeu": "test2",
+   "cible": "LBA_",
+   "article": "6",
+   "rang_article": "absent",
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q27",
+   "jeu": "test2",
+   "cible": "LBA_",
+   "article": "10a",
+   "rang_article": "absent",
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q28",
+   "jeu": "test2",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q29",
+   "jeu": "test2",
+   "cible": "LPD_",
+   "article": "24",
+   "rang_article": 3,
+   "rang_document": 2
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q30",
+   "jeu": "test2",
+   "cible": "LBA_",
+   "article": "9",
+   "rang_article": 2,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q31",
+   "jeu": "test2",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q31",
+   "jeu": "test2",
+   "cible": "M-ONB-02",
+   "article": "",
+   "rang_article": 2,
+   "rang_document": 2
+  },
+  {
+   "pipeline": "v3",
+   "id": "Q34",
+   "jeu": "test2",
+   "cible": "LPD_",
+   "article": "12",
+   "rang_article": 2,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q01",
+   "jeu": "dev",
+   "cible": "FINMA_circ",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q02",
+   "jeu": "dev",
+   "cible": "FINMA_comm",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q03",
+   "jeu": "dev",
+   "cible": "FINMA_comm",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q04",
+   "jeu": "dev",
+   "cible": "LBA_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q05",
+   "jeu": "dev",
+   "cible": "LBA_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q06",
+   "jeu": "dev",
+   "cible": "LPD_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q07",
+   "jeu": "dev",
+   "cible": "FINMA_circ",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q08",
+   "jeu": "dev",
+   "cible": "LBA_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q09",
+   "jeu": "dev",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q10",
+   "jeu": "dev",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q12",
+   "jeu": "dev",
+   "cible": "ORION",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q15",
+   "jeu": "dev",
+   "cible": "P-PAY-03",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q16",
+   "jeu": "dev",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 2,
+   "rang_document": 2
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q16",
+   "jeu": "dev",
+   "cible": "P-PAY-03",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q17",
+   "jeu": "test",
+   "cible": "LPD_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q18",
+   "jeu": "test",
+   "cible": "LBA_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q19",
+   "jeu": "test",
+   "cible": "LPD_",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q20",
+   "jeu": "test",
+   "cible": "P-PAY-03",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q21",
+   "jeu": "test",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q23",
+   "jeu": "test",
+   "cible": "T-01",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q24",
+   "jeu": "test",
+   "cible": "M-ONB-02",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q25",
+   "jeu": "test2",
+   "cible": "FINMA_circ",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q26",
+   "jeu": "test2",
+   "cible": "LBA_",
+   "article": "6",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q27",
+   "jeu": "test2",
+   "cible": "LBA_",
+   "article": "10a",
+   "rang_article": 2,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q28",
+   "jeu": "test2",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q29",
+   "jeu": "test2",
+   "cible": "LPD_",
+   "article": "24",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q30",
+   "jeu": "test2",
+   "cible": "LBA_",
+   "article": "9",
+   "rang_article": 5,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q31",
+   "jeu": "test2",
+   "cible": "D-KYC-07_PEP_v2.0",
+   "article": "",
+   "rang_article": 1,
+   "rang_document": 1
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q31",
+   "jeu": "test2",
+   "cible": "M-ONB-02",
+   "article": "",
+   "rang_article": 4,
+   "rang_document": 4
+  },
+  {
+   "pipeline": "v4",
+   "id": "Q34",
+   "jeu": "test2",
+   "cible": "LPD_",
+   "article": "12",
+   "rang_article": 2,
+   "rang_document": 1
+  }
+ ]
+}

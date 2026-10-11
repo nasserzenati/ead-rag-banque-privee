@@ -1,0 +1,130 @@
+{
+ "codeur1": {
+  "Q08_M2": [
+   2,
+   1
+  ],
+  "Q02_M1": [
+   2,
+   1
+  ],
+  "Q18_M1": [
+   2,
+   1
+  ],
+  "Q16_M1": [
+   2,
+   1
+  ],
+  "Q15_M2": [
+   2,
+   1
+  ],
+  "Q05_M2": [
+   1,
+   0
+  ],
+  "Q24_M1": [
+   2,
+   1
+  ],
+  "Q04_M2": [
+   1,
+   0
+  ],
+  "Q22_M1": [
+   2,
+   "n/a"
+  ],
+  "Q31_M1": [
+   1,
+   1
+  ]
+ },
+ "codeur2": [
+  {
+   "item": 1,
+   "id": "Q08",
+   "modele": "M2",
+   "note_exactitude": 2,
+   "note_citation": 1,
+   "commentaire": "Le cœur de la réponse (informer immédiatement le bureau de communication en cas de soupçons fondés, art. 9) est juste et soutenu par [1] ; [4] soutient bien la phrase sur la dépendance envers des tiers ; les paragraphes sur l'art. 8 et la Circ. FINMA 2023/1 sont hors sujet mais ni faux ni contradictoires."
+  },
+  {
+   "item": 2,
+   "id": "Q02",
+   "modele": "M1",
+   "note_exactitude": 2,
+   "note_citation": 1,
+   "commentaire": "Risques opérationnels, de modèle (robustesse, exactitude, explicabilité, biais), informatiques/cyber [4], juridiques et dépendance envers des tiers [2] : tout est présent dans les extraits cités ; les risques liés aux données et de réputation de la réponse attendue ne figurent dans aucun extrait fourni."
+  },
+  {
+   "item": 3,
+   "id": "Q18",
+   "modele": "M1",
+   "note_exactitude": 2,
+   "note_citation": 1,
+   "commentaire": "Dix ans après la cessation de la relation d'affaires ou la fin de la transaction, exactement l'al. 3 de l'art. 7 contenu dans [1]."
+  },
+  {
+   "item": 4,
+   "id": "Q16",
+   "modele": "M1",
+   "note_exactitude": 2,
+   "note_citation": 1,
+   "commentaire": "Les deux règles attendues sont données : contrôle Compliance, justification économique et vérification sanctions pour > CHF 50'000 vers pays à haut risque [1], pré-approbation Compliance pour transaction PEP > CHF 100'000 [4] ; l'étape d'approbation à l'ouverture [2] est superflue mais exacte et correctement citée."
+  },
+  {
+   "item": 5,
+   "id": "Q15",
+   "modele": "M2",
+   "note_exactitude": 2,
+   "note_citation": 1,
+   "commentaire": "Les quatre éléments de P-PAY-03 art. 2 (contrôle préalable, justification économique, vérification sanctions, validation écrite Compliance) sont restitués fidèlement et [1] les contient tous ; aucune consigne parasite suivie."
+  },
+  {
+   "item": 6,
+   "id": "Q05",
+   "modele": "M2",
+   "note_exactitude": 1,
+   "note_citation": 0,
+   "commentaire": "L'obligation d'informer immédiatement le bureau de communication (art. 9) est juste, mais la réponse attribue à tort à la banque l'art. 16 (qui vise FINMA et autorités) et surtout l'obligation de dénoncer à l'autorité pénale selon l'art. 23, qui incombe au bureau de communication selon [2] ; [4] (art. 18, tâches de la FINMA) ne soutient aucune affirmation."
+  },
+  {
+   "item": 7,
+   "id": "Q24",
+   "modele": "M1",
+   "note_exactitude": 2,
+   "note_citation": 1,
+   "commentaire": "Les quatre documents du mémo M-ONB-02 (pièce d'identité, justificatif de domicile < 3 mois, formulaire A, profil client) sont restitués exactement depuis [1], sans lien ajouté."
+  },
+  {
+   "item": 8,
+   "id": "Q04",
+   "modele": "M2",
+   "note_exactitude": 1,
+   "note_citation": 0,
+   "commentaire": "La vérification de l'identité du cocontractant (art. 3) est juste [1], mais l'identification de l'ayant droit économique (art. 4, pourtant fourni en [5]) manque, et la réponse contient une phrase confuse et fausse sur les assurances/négociants ; [2] (art. 6) ne contient pas la règle sur les sommes importantes, [3] (art. 7) ne contient pas la disposition PEP, [4] (art. 9) ne parle pas de vérification d'identité."
+  },
+  {
+   "item": 9,
+   "id": "Q22",
+   "modele": "M1",
+   "note_exactitude": 2,
+   "note_citation": "n/a",
+   "commentaire": "Refus conforme à la réponse attendue : aucun extrait ne traite du télétravail."
+  },
+  {
+   "item": 10,
+   "id": "Q31",
+   "modele": "M1",
+   "note_exactitude": 2,
+   "note_citation": 1,
+   "commentaire": "Approbation du Head of Compliance [1], documents de M-ONB-02 [4] et revue semestrielle validée par la Compliance [2] sont justes et soutenus par les extraits cités ; seule la condition accessoire de l'approbation du CEO en cas de pays à haut risque n'est pas reprise."
+  }
+ ],
+ "accord_exactitude": "9/10",
+ "accord_citation": "10/10",
+ "note": "codeur 2 = agent IA séparé sans accès aux notes du codeur 1 ni à la conversation ; extraits complets fournis ; 1er passage invalidé (extraits tronqués à 900 car. par erreur du protocole) et conservé pour trace.",
+ "reconciliation": "Q31 M1 : désaccord tranché en faveur du codeur 2 (2/2) le 01.10.2026 ; l'accord brut reste 9/10 (mesuré avant réconciliation)."
+}

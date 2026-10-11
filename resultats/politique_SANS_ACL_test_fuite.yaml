@@ -1,0 +1,23 @@
+rag_options:
+  egress_block_all_urls: true
+  exclude_superseded: true
+  firewall_granularity: line
+rag_roles:
+  compliance:
+    allowed_levels:
+    - public
+    - interne
+    - confidentiel
+    max_chunks: 5
+  gestionnaire:
+    allowed_levels:
+    - public
+    - interne
+    - confidentiel
+    max_chunks: 5
+  juridique:
+    allowed_levels:
+    - public
+    - interne
+    - confidentiel
+    max_chunks: 5

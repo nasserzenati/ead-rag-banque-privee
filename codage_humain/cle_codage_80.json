@@ -1,0 +1,402 @@
+{
+ "J01": {
+  "id": "Q26",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v4"
+ },
+ "J02": {
+  "id": "Q32",
+  "modele": "qwen3:8b",
+  "pipeline": "v1"
+ },
+ "J03": {
+  "id": "Q25",
+  "modele": "qwen3:8b",
+  "pipeline": "v1"
+ },
+ "J04": {
+  "id": "Q31",
+  "modele": "qwen3:8b",
+  "pipeline": "v2"
+ },
+ "J05": {
+  "id": "Q25",
+  "modele": "qwen3:8b",
+  "pipeline": "v4"
+ },
+ "J06": {
+  "id": "Q33",
+  "modele": "qwen3:8b",
+  "pipeline": "v3"
+ },
+ "J07": {
+  "id": "Q32",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v1"
+ },
+ "J08": {
+  "id": "Q28",
+  "modele": "qwen3:8b",
+  "pipeline": "v3"
+ },
+ "J09": {
+  "id": "Q33",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v2"
+ },
+ "J10": {
+  "id": "Q30",
+  "modele": "qwen3:8b",
+  "pipeline": "v2"
+ },
+ "J11": {
+  "id": "Q25",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v3"
+ },
+ "J12": {
+  "id": "Q28",
+  "modele": "qwen3:8b",
+  "pipeline": "v2"
+ },
+ "J13": {
+  "id": "Q28",
+  "modele": "qwen3:8b",
+  "pipeline": "v1"
+ },
+ "J14": {
+  "id": "Q28",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v4"
+ },
+ "J15": {
+  "id": "Q29",
+  "modele": "qwen3:8b",
+  "pipeline": "v3"
+ },
+ "J16": {
+  "id": "Q34",
+  "modele": "qwen3:8b",
+  "pipeline": "v4"
+ },
+ "J17": {
+  "id": "Q26",
+  "modele": "qwen3:8b",
+  "pipeline": "v2"
+ },
+ "J18": {
+  "id": "Q28",
+  "modele": "qwen3:8b",
+  "pipeline": "v4"
+ },
+ "J19": {
+  "id": "Q32",
+  "modele": "qwen3:8b",
+  "pipeline": "v4"
+ },
+ "J20": {
+  "id": "Q32",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v3"
+ },
+ "J21": {
+  "id": "Q33",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v1"
+ },
+ "J22": {
+  "id": "Q30",
+  "modele": "qwen3:8b",
+  "pipeline": "v4"
+ },
+ "J23": {
+  "id": "Q30",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v2"
+ },
+ "J24": {
+  "id": "Q29",
+  "modele": "qwen3:8b",
+  "pipeline": "v4"
+ },
+ "J25": {
+  "id": "Q31",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v4"
+ },
+ "J26": {
+  "id": "Q32",
+  "modele": "qwen3:8b",
+  "pipeline": "v3"
+ },
+ "J27": {
+  "id": "Q29",
+  "modele": "qwen3:8b",
+  "pipeline": "v1"
+ },
+ "J28": {
+  "id": "Q26",
+  "modele": "qwen3:8b",
+  "pipeline": "v4"
+ },
+ "J29": {
+  "id": "Q34",
+  "modele": "qwen3:8b",
+  "pipeline": "v3"
+ },
+ "J30": {
+  "id": "Q31",
+  "modele": "qwen3:8b",
+  "pipeline": "v3"
+ },
+ "J31": {
+  "id": "Q34",
+  "modele": "qwen3:8b",
+  "pipeline": "v2"
+ },
+ "J32": {
+  "id": "Q27",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v1"
+ },
+ "J33": {
+  "id": "Q31",
+  "modele": "qwen3:8b",
+  "pipeline": "v1"
+ },
+ "J34": {
+  "id": "Q30",
+  "modele": "qwen3:8b",
+  "pipeline": "v1"
+ },
+ "J35": {
+  "id": "Q28",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v2"
+ },
+ "J36": {
+  "id": "Q27",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v4"
+ },
+ "J37": {
+  "id": "Q26",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v1"
+ },
+ "J38": {
+  "id": "Q32",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v2"
+ },
+ "J39": {
+  "id": "Q32",
+  "modele": "qwen3:8b",
+  "pipeline": "v2"
+ },
+ "J40": {
+  "id": "Q28",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v3"
+ },
+ "J41": {
+  "id": "Q29",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v1"
+ },
+ "J42": {
+  "id": "Q27",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v2"
+ },
+ "J43": {
+  "id": "Q34",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v4"
+ },
+ "J44": {
+  "id": "Q25",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v4"
+ },
+ "J45": {
+  "id": "Q32",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v4"
+ },
+ "J46": {
+  "id": "Q33",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v3"
+ },
+ "J47": {
+  "id": "Q27",
+  "modele": "qwen3:8b",
+  "pipeline": "v2"
+ },
+ "J48": {
+  "id": "Q25",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v2"
+ },
+ "J49": {
+  "id": "Q33",
+  "modele": "qwen3:8b",
+  "pipeline": "v1"
+ },
+ "J50": {
+  "id": "Q31",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v3"
+ },
+ "J51": {
+  "id": "Q26",
+  "modele": "qwen3:8b",
+  "pipeline": "v1"
+ },
+ "J52": {
+  "id": "Q26",
+  "modele": "qwen3:8b",
+  "pipeline": "v3"
+ },
+ "J53": {
+  "id": "Q33",
+  "modele": "qwen3:8b",
+  "pipeline": "v4"
+ },
+ "J54": {
+  "id": "Q29",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v3"
+ },
+ "J55": {
+  "id": "Q28",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v1"
+ },
+ "J56": {
+  "id": "Q34",
+  "modele": "qwen3:8b",
+  "pipeline": "v1"
+ },
+ "J57": {
+  "id": "Q34",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v1"
+ },
+ "J58": {
+  "id": "Q30",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v4"
+ },
+ "J59": {
+  "id": "Q31",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v1"
+ },
+ "J60": {
+  "id": "Q30",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v1"
+ },
+ "J61": {
+  "id": "Q29",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v4"
+ },
+ "J62": {
+  "id": "Q34",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v2"
+ },
+ "J63": {
+  "id": "Q29",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v2"
+ },
+ "J64": {
+  "id": "Q31",
+  "modele": "qwen3:8b",
+  "pipeline": "v4"
+ },
+ "J65": {
+  "id": "Q33",
+  "modele": "qwen3:8b",
+  "pipeline": "v2"
+ },
+ "J66": {
+  "id": "Q27",
+  "modele": "qwen3:8b",
+  "pipeline": "v4"
+ },
+ "J67": {
+  "id": "Q25",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v1"
+ },
+ "J68": {
+  "id": "Q34",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v3"
+ },
+ "J69": {
+  "id": "Q30",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v3"
+ },
+ "J70": {
+  "id": "Q25",
+  "modele": "qwen3:8b",
+  "pipeline": "v2"
+ },
+ "J71": {
+  "id": "Q26",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v2"
+ },
+ "J72": {
+  "id": "Q33",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v4"
+ },
+ "J73": {
+  "id": "Q27",
+  "modele": "qwen3:8b",
+  "pipeline": "v3"
+ },
+ "J74": {
+  "id": "Q25",
+  "modele": "qwen3:8b",
+  "pipeline": "v3"
+ },
+ "J75": {
+  "id": "Q30",
+  "modele": "qwen3:8b",
+  "pipeline": "v3"
+ },
+ "J76": {
+  "id": "Q26",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v3"
+ },
+ "J77": {
+  "id": "Q31",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v2"
+ },
+ "J78": {
+  "id": "Q27",
+  "modele": "qwen3:8b",
+  "pipeline": "v1"
+ },
+ "J79": {
+  "id": "Q29",
+  "modele": "qwen3:8b",
+  "pipeline": "v2"
+ },
+ "J80": {
+  "id": "Q27",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m",
+  "pipeline": "v3"
+ }
+}

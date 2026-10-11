@@ -1,0 +1,52 @@
+=== Environnement de la maquette — 05.10.2026 14:05
+--- Machine
+ProductName:		macOS
+ProductVersion:		26.5.2
+BuildVersion:		25F84
+arm64
+Apple M1
+RAM : 16 Go
+--- Ollama
+ollama version is 0.30.8
+--- Modèles (nom, empreinte, taille)
+bge-m3:latest | 7907646426070047a77226ac3e684fbbe8410524f7b4a74d02837e43f2146bab | 1.16 Go | 566.70M F16
+MichelRosselli/apertus:8b-instruct-2509-q4_k_m | 4dd40b7ed3c033e28b1845b818c4c58ef6952a28bfc9f4cbaa8f889c50b677d5 | 5.06 Go | 8.1B Q4_K_M
+qwen3:8b | 500a1f067a9f782620b40bee6f7b0c89e17ae61f686b92c24933e4ca4b2b8b41 | 5.23 Go | 8.2B Q4_K_M
+--- Python
+/opt/anaconda3/bin/python
+Python 3.13.5
+numpy 2.1.3
+pypdf 6.19.0
+yaml 6.0.2
+--- Aegis
+89bd4dc175e2e5060d25f147775b81f58789c2d1 2026-09-28 20:35:08 +0000 Garde RAG : Aegis entre la recherche et la génération
+feat/banque-suisse-multilingue
+--- Empreintes des fichiers figés
+a51c9bd93fd3752f8b183aed3f64c7579e02c3633d0e634f27058fbf6b4ceec0  questions.csv
+cf2a027550b915b0f7534636e5c391cf4dd17a738194041c270a6c324c005013  PROTOCOLE_v4.md
+52af9ad6740d4f5a824f50dfde04109ed344c46cba0ce8e9b35085295121b967  rag_test.py
+4749d40bb1cbf2a01ce0d673ff0617f28f32c579de80217a6a89cddaf4828492  metriques_recherche.py
+5bd43cc6a6c596575063671b08e0b258697e19a81ba03a5ba8deffb058880506  corpus/confidentiel_note_juridique_ORION.md
+e944bf4cd133fa33426e8de0d2cb43613321215cb1f7129fc7ecaacd828bf7e7  corpus/documents.csv
+54cd5d3c19e5b947b5d20ac42336e42f2038df1170636844d370c5b8c48cd7af  corpus/FINMA_circ_2023-01_risques_operationnels.pdf
+0352db880cfc090cbf8dd72766fbe795cb6e5b4c7af3872573f374ca488e2aab  corpus/FINMA_communication_08-2024_IA.pdf
+f3488bdc67293ee6e10bdf1e2f402756ca360ee175f62b782816d5dc3881df2a  corpus/interne_D-KYC-07_PEP_v1.2_2024.md
+02e26d3736271780bf71024348dc231be24ad1dbce1e2e71c4cae7b4ea178ef1  corpus/interne_D-KYC-07_PEP_v2.0_2026.md
+e1f8b95c4c346032d5dd0fae5bfaa84866b74882782c7f59187ebf95e99099ff  corpus/interne_FAQ-LBA_v0.9_brouillon.md
+51e1ed3e66214055f423daaa8d5adacb35b299089e4049d95ae9eae75cde19c3  corpus/interne_M-ONB-02_memo_ouverture_compte.md
+4e1719e5753a2035525fd1e12aa253d9fde29a4bca19fe9333c08efa60e5ca33  corpus/interne_P-PAY-03_virements_internationaux.md
+3978c868668c99c1ff94996bae05525b69516c9deae9bb40a7d2bb9e053bbd0d  corpus/interne_T-01_grille_tarifaire_2026.md
+48e92ca624bb6d9a102a35d066e16dc2ca1beb51a3f1d8e2ce309a1f4d4ef046  corpus/LBA_RS_955.0.pdf
+2a7099cd172067ea21e1421311d623e7dea9d1a112645f2774ead26ad400e24e  corpus/LPD_RS_235.1.pdf
+--- Test du README : question libre en v4
+
+=== qwen3:8b (27.7 s) ===
+L'ouverture d'une relation d'affaires avec un PEP étranger nécessite l'approbation écrite du Head of Compliance. Si le PEP est domicilié dans un pays figurant sur la liste interne des pays à haut risque, l'approbation du CEO est également requise [1].
+
+Extraits récupérés :
+  [1] Directive interne D-KYC-07 Relations avec des PEP, v2.0 (2026, en vigueur), « Art. 3 Approbation » — interne — score 0.03
+  [2] Directive interne D-KYC-07 Relations avec des PEP, v2.0 (2026, en vigueur), « Art. 2 Identification » — interne — score 0.03
+  [3] Directive interne D-KYC-07 Relations avec des PEP, v2.0 (2026, en vigueur), « Art. 5 Revue périodique » — interne — score 0.03
+  [4] Directive interne D-KYC-07 Relations avec des PEP, v2.0 (2026, en vigueur), « Art. 4 Origine des fonds et transactions » — interne — score 0.03
+  [5] Directive interne D-KYC-07 Relations avec des PEP, v2.0 (2026, en vigueur), « Art. 1 Champ d'application » — interne — score 0.03
+=== TERMINÉ — fichier : resultats/environnement_2026-10-05_1405.txt

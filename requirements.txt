@@ -1,0 +1,10 @@
+# Environnement de référence de la maquette (relevé le 05.10.2026, resultats/environnement_2026-10-05_1405.txt)
+# Python 3.13.5 (Anaconda) sur macOS 26.5.2, Apple M1, 16 Go
+numpy==2.1.3
+pypdf==6.19.0
+PyYAML==6.0.2
+# Hors pip : Ollama 0.30.8 ; modèles (empreintes Ollama) :
+#   qwen3:8b                                        500a1f067a9f782620b40bee6f7b0c89e17ae61f686b92c24933e4ca4b2b8b41
+#   MichelRosselli/apertus:8b-instruct-2509-q4_k_m  4dd40b7ed3c033e28b1845b818c4c58ef6952a28bfc9f4cbaa8f889c50b677d5
+#   bge-m3:latest                                   7907646426070047a77226ac3e684fbbe8410524f7b4a74d02837e43f2146bab
+# Aegis : github.com/nasserzenati/aegis, branche feat/banque-suisse-multilingue, commit 89bd4dc175e2e5060d25f147775b81f58789c2d1

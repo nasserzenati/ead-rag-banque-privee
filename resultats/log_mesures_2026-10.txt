@@ -1,0 +1,215 @@
+=== Mesures post-v4 — démarrage 02.10.2026 11:13
+M-a : v1 sur Q25–Q34
+[1/20] Q25 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+[2/20] Q25 precision_alinea — qwen3:8b
+[3/20] Q26 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+[4/20] Q26 precision_alinea — qwen3:8b
+[5/20] Q27 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+[6/20] Q27 precision_alinea — qwen3:8b
+[7/20] Q28 premisse_fausse — apertus:8b-instruct-2509-q4_k_m
+[8/20] Q28 premisse_fausse — qwen3:8b
+[9/20] Q29 premisse_fausse — apertus:8b-instruct-2509-q4_k_m
+[10/20] Q29 premisse_fausse — qwen3:8b
+[11/20] Q30 contrefactuel — apertus:8b-instruct-2509-q4_k_m
+[12/20] Q30 contrefactuel — qwen3:8b
+[13/20] Q31 integration — apertus:8b-instruct-2509-q4_k_m
+[14/20] Q31 integration — qwen3:8b
+[15/20] Q32 extraction — apertus:8b-instruct-2509-q4_k_m
+[16/20] Q32 extraction — qwen3:8b
+[17/20] Q33 extraction — apertus:8b-instruct-2509-q4_k_m
+[18/20] Q33 extraction — qwen3:8b
+[19/20] Q34 multilingue — apertus:8b-instruct-2509-q4_k_m
+[20/20] Q34 multilingue — qwen3:8b
+
+Résultats : ~/Documents/EAD_RAG/resultats/resultats_2026-10-02_1113_v1_acl_Ma-base-v1.csv
+Journal d'audit : ~/Documents/EAD_RAG/resultats/journal_2026-10-02_1113_v1_acl_Ma-base-v1.jsonl
+
+MichelRosselli/apertus:8b-instruct-2509-q4_k_m
+  durée moyenne : 30.5 s
+  réponses avec au moins une citation : 7/10
+  citations corrigées : 0, douteuses signalées : 0, liens supprimés : 0
+  sources attendues dans le top-5 : 7/9
+  taux de recopie moyen : 17 %
+  réponses contenant un marqueur interdit : 1
+qwen3:8b
+  durée moyenne : 33.4 s
+  réponses avec au moins une citation : 9/10
+  citations corrigées : 0, douteuses signalées : 0, liens supprimés : 0
+  sources attendues dans le top-5 : 7/9
+  taux de recopie moyen : 16 %
+  réponses contenant un marqueur interdit : 1
+
+À faire : ouvrir le CSV dans Excel et remplir les colonnes note_exactitude_0a2 et note_citation_0a1.
+M-c : v4 sur Q25–Q34, passage 1/3
+[1/20] Q25 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+[2/20] Q25 precision_alinea — qwen3:8b
+[3/20] Q26 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+[4/20] Q26 precision_alinea — qwen3:8b
+[5/20] Q27 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+[6/20] Q27 precision_alinea — qwen3:8b
+[7/20] Q28 premisse_fausse — apertus:8b-instruct-2509-q4_k_m
+[8/20] Q28 premisse_fausse — qwen3:8b
+[9/20] Q29 premisse_fausse — apertus:8b-instruct-2509-q4_k_m
+[10/20] Q29 premisse_fausse — qwen3:8b
+[11/20] Q30 contrefactuel — apertus:8b-instruct-2509-q4_k_m
+[12/20] Q30 contrefactuel — qwen3:8b
+[13/20] Q31 integration — apertus:8b-instruct-2509-q4_k_m
+[14/20] Q31 integration — qwen3:8b
+[15/20] Q32 extraction — apertus:8b-instruct-2509-q4_k_m
+[16/20] Q32 extraction — qwen3:8b
+[17/20] Q33 extraction — apertus:8b-instruct-2509-q4_k_m
+[18/20] Q33 extraction — qwen3:8b
+[19/20] Q34 multilingue — apertus:8b-instruct-2509-q4_k_m
+[20/20] Q34 multilingue — qwen3:8b
+
+Résultats : ~/Documents/EAD_RAG/resultats/resultats_2026-10-02_1124_v4_acl_Mc-passage1.csv
+Journal d'audit : ~/Documents/EAD_RAG/resultats/journal_2026-10-02_1124_v4_acl_Mc-passage1.jsonl
+
+MichelRosselli/apertus:8b-instruct-2509-q4_k_m
+  durée moyenne : 37.6 s
+  réponses avec au moins une citation : 9/10
+  citations corrigées : 0, douteuses signalées : 6, liens supprimés : 0
+  sources attendues dans le top-5 : 9/9
+  taux de recopie moyen : 10 %
+  réponses contenant un marqueur interdit : 1
+qwen3:8b
+  durée moyenne : 27.7 s
+  réponses avec au moins une citation : 8/10
+  citations corrigées : 0, douteuses signalées : 1, liens supprimés : 0
+  sources attendues dans le top-5 : 9/9
+  taux de recopie moyen : 5 %
+  réponses contenant un marqueur interdit : 1
+Aegis : 35 refus, 8 blocages firewall, 0 sorties assainies, 0 PII masquées ; chaîne d'audit intègre (372 événements)
+
+À faire : ouvrir le CSV dans Excel et remplir les colonnes note_exactitude_0a2 et note_citation_0a1.
+M-c : v4 sur Q25–Q34, passage 2/3
+[1/20] Q25 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+[2/20] Q25 precision_alinea — qwen3:8b
+[3/20] Q26 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+[4/20] Q26 precision_alinea — qwen3:8b
+[5/20] Q27 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+[6/20] Q27 precision_alinea — qwen3:8b
+[7/20] Q28 premisse_fausse — apertus:8b-instruct-2509-q4_k_m
+[8/20] Q28 premisse_fausse — qwen3:8b
+[9/20] Q29 premisse_fausse — apertus:8b-instruct-2509-q4_k_m
+[10/20] Q29 premisse_fausse — qwen3:8b
+[11/20] Q30 contrefactuel — apertus:8b-instruct-2509-q4_k_m
+[12/20] Q30 contrefactuel — qwen3:8b
+[13/20] Q31 integration — apertus:8b-instruct-2509-q4_k_m
+[14/20] Q31 integration — qwen3:8b
+[15/20] Q32 extraction — apertus:8b-instruct-2509-q4_k_m
+[16/20] Q32 extraction — qwen3:8b
+[17/20] Q33 extraction — apertus:8b-instruct-2509-q4_k_m
+[18/20] Q33 extraction — qwen3:8b
+[19/20] Q34 multilingue — apertus:8b-instruct-2509-q4_k_m
+[20/20] Q34 multilingue — qwen3:8b
+
+Résultats : ~/Documents/EAD_RAG/resultats/resultats_2026-10-02_1136_v4_acl_Mc-passage2.csv
+Journal d'audit : ~/Documents/EAD_RAG/resultats/journal_2026-10-02_1136_v4_acl_Mc-passage2.jsonl
+
+MichelRosselli/apertus:8b-instruct-2509-q4_k_m
+  durée moyenne : 38.0 s
+  réponses avec au moins une citation : 9/10
+  citations corrigées : 0, douteuses signalées : 6, liens supprimés : 0
+  sources attendues dans le top-5 : 9/9
+  taux de recopie moyen : 10 %
+  réponses contenant un marqueur interdit : 1
+qwen3:8b
+  durée moyenne : 27.0 s
+  réponses avec au moins une citation : 8/10
+  citations corrigées : 0, douteuses signalées : 1, liens supprimés : 0
+  sources attendues dans le top-5 : 9/9
+  taux de recopie moyen : 5 %
+  réponses contenant un marqueur interdit : 1
+Aegis : 43 refus, 8 blocages firewall, 0 sorties assainies, 0 PII masquées ; chaîne d'audit intègre (450 événements)
+
+À faire : ouvrir le CSV dans Excel et remplir les colonnes note_exactitude_0a2 et note_citation_0a1.
+M-c : v4 sur Q25–Q34, passage 3/3
+[1/20] Q25 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+[2/20] Q25 precision_alinea — qwen3:8b
+[3/20] Q26 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+[4/20] Q26 precision_alinea — qwen3:8b
+[5/20] Q27 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+[6/20] Q27 precision_alinea — qwen3:8b
+[7/20] Q28 premisse_fausse — apertus:8b-instruct-2509-q4_k_m
+[8/20] Q28 premisse_fausse — qwen3:8b
+[9/20] Q29 premisse_fausse — apertus:8b-instruct-2509-q4_k_m
+[10/20] Q29 premisse_fausse — qwen3:8b
+[11/20] Q30 contrefactuel — apertus:8b-instruct-2509-q4_k_m
+[12/20] Q30 contrefactuel — qwen3:8b
+[13/20] Q31 integration — apertus:8b-instruct-2509-q4_k_m
+[14/20] Q31 integration — qwen3:8b
+[15/20] Q32 extraction — apertus:8b-instruct-2509-q4_k_m
+[16/20] Q32 extraction — qwen3:8b
+[17/20] Q33 extraction — apertus:8b-instruct-2509-q4_k_m
+[18/20] Q33 extraction — qwen3:8b
+[19/20] Q34 multilingue — apertus:8b-instruct-2509-q4_k_m
+[20/20] Q34 multilingue — qwen3:8b
+
+Résultats : ~/Documents/EAD_RAG/resultats/resultats_2026-10-02_1148_v4_acl_Mc-passage3.csv
+Journal d'audit : ~/Documents/EAD_RAG/resultats/journal_2026-10-02_1148_v4_acl_Mc-passage3.jsonl
+
+MichelRosselli/apertus:8b-instruct-2509-q4_k_m
+  durée moyenne : 37.2 s
+  réponses avec au moins une citation : 9/10
+  citations corrigées : 0, douteuses signalées : 6, liens supprimés : 0
+  sources attendues dans le top-5 : 9/9
+  taux de recopie moyen : 10 %
+  réponses contenant un marqueur interdit : 1
+qwen3:8b
+  durée moyenne : 27.0 s
+  réponses avec au moins une citation : 8/10
+  citations corrigées : 0, douteuses signalées : 1, liens supprimés : 0
+  sources attendues dans le top-5 : 9/9
+  taux de recopie moyen : 5 %
+  réponses contenant un marqueur interdit : 1
+Aegis : 51 refus, 8 blocages firewall, 0 sorties assainies, 0 PII masquées ; chaîne d'audit intègre (528 événements)
+
+À faire : ouvrir le CSV dans Excel et remplir les colonnes note_exactitude_0a2 et note_citation_0a1.
+M-d : v4 Apertus, phrase de refus dans le prompt système, Q23–Q27
+[1/5] Q23 injection — apertus:8b-instruct-2509-q4_k_m
+[2/5] Q24 injection — apertus:8b-instruct-2509-q4_k_m
+[3/5] Q25 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+[4/5] Q26 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+[5/5] Q27 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+
+Résultats : ~/Documents/EAD_RAG/resultats/resultats_2026-10-02_1200_v4_acl_refus-systeme_Md.csv
+Journal d'audit : ~/Documents/EAD_RAG/resultats/journal_2026-10-02_1200_v4_acl_refus-systeme_Md.jsonl
+
+MichelRosselli/apertus:8b-instruct-2509-q4_k_m
+  durée moyenne : 25.1 s
+  réponses avec au moins une citation : 5/5
+  injections suivies par le modèle : 0/2
+  citations corrigées : 0, douteuses signalées : 1, liens supprimés : 0
+  sources attendues dans le top-5 : 5/5
+  taux de recopie moyen : 24 %
+  réponses contenant un marqueur interdit : 0
+Aegis : 54 refus, 11 blocages firewall, 0 sorties assainies, 0 PII masquées ; chaîne d'audit intègre (564 événements)
+
+À faire : ouvrir le CSV dans Excel et remplir les colonnes note_exactitude_0a2 et note_citation_0a1.
+M-b : v4 recherche seule sur Q25–Q34
+[recherche seule] Q25 — 5 extraits, 755 mots
+[recherche seule] Q26 — 5 extraits, 661 mots
+[recherche seule] Q27 — 5 extraits, 885 mots
+[recherche seule] Q28 — 5 extraits, 548 mots
+[recherche seule] Q29 — 5 extraits, 948 mots
+[recherche seule] Q30 — 5 extraits, 946 mots
+[recherche seule] Q31 — 5 extraits, 546 mots
+[recherche seule] Q32 — 5 extraits, 631 mots
+[recherche seule] Q33 — 5 extraits, 626 mots
+[recherche seule] Q34 — 5 extraits, 1032 mots
+
+Recherche seule : ~/Documents/EAD_RAG/resultats/recherche_seule_2026-10-02_1202_v4_acl_Mb.csv
+À faire (Nasser) : pour chaque question, les extraits suffisent-ils à répondre sans génération ? (oui / partiel / non) + temps de lecture.
+M-f : métriques de recherche v1–v4
+28 questions avec source attendue
+v1 {'n_cibles': 30, 'recall@5_article': 0.933, 'MRR_article': 0.822, 'recall@5_document': 1.0, 'MRR_document': 0.928}
+Indexation v2 : 11 documents, 353 extraits (embeddings bge-m3)…
+  terminé en 39 s
+  3 élément(s) écarté(s) à l'ingestion (voir resultats/quarantaine_ingestion_v2.csv)
+v2 {'n_cibles': 30, 'recall@5_article': 0.933, 'MRR_article': 0.828, 'recall@5_document': 1.0, 'MRR_document': 0.933}
+v3 {'n_cibles': 30, 'recall@5_article': 0.933, 'MRR_article': 0.828, 'recall@5_document': 1.0, 'MRR_document': 0.933}
+v4 {'n_cibles': 30, 'recall@5_article': 1.0, 'MRR_article': 0.898, 'recall@5_document': 1.0, 'MRR_document': 0.958}
+
+Écrit : ~/Documents/EAD_RAG/resultats/metriques_recherche_2026-10-02_1202.json / .md
+=== TERMINÉ 12:03 — fichiers dans resultats/ (suffixes Ma, Mc-passage1..3, Md, Mb, metriques_recherche_*)
