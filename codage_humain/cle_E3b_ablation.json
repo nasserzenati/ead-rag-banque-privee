@@ -1,0 +1,302 @@
+{
+ "K01": {
+  "variante": "v3+consigne",
+  "id": "Q30",
+  "modele": "qwen3:8b"
+ },
+ "K02": {
+  "variante": "v3+hybride",
+  "id": "Q25",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K03": {
+  "variante": "v3+decoupage",
+  "id": "Q32",
+  "modele": "qwen3:8b"
+ },
+ "K04": {
+  "variante": "v3+decoupage",
+  "id": "Q28",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K05": {
+  "variante": "v3+decoupage",
+  "id": "Q30",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K06": {
+  "variante": "v3+hybride",
+  "id": "Q34",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K07": {
+  "variante": "v3+decoupage",
+  "id": "Q29",
+  "modele": "qwen3:8b"
+ },
+ "K08": {
+  "variante": "v3+decoupage",
+  "id": "Q34",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K09": {
+  "variante": "v3+consigne",
+  "id": "Q28",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K10": {
+  "variante": "v3+consigne",
+  "id": "Q28",
+  "modele": "qwen3:8b"
+ },
+ "K11": {
+  "variante": "v3+consigne",
+  "id": "Q26",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K12": {
+  "variante": "v3+consigne",
+  "id": "Q32",
+  "modele": "qwen3:8b"
+ },
+ "K13": {
+  "variante": "v3+hybride",
+  "id": "Q26",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K14": {
+  "variante": "v3+decoupage",
+  "id": "Q33",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K15": {
+  "variante": "v3+consigne",
+  "id": "Q33",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K16": {
+  "variante": "v3+hybride",
+  "id": "Q28",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K17": {
+  "variante": "v3+hybride",
+  "id": "Q29",
+  "modele": "qwen3:8b"
+ },
+ "K18": {
+  "variante": "v3+hybride",
+  "id": "Q27",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K19": {
+  "variante": "v3+consigne",
+  "id": "Q34",
+  "modele": "qwen3:8b"
+ },
+ "K20": {
+  "variante": "v3+consigne",
+  "id": "Q27",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K21": {
+  "variante": "v3+hybride",
+  "id": "Q31",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K22": {
+  "variante": "v3+hybride",
+  "id": "Q26",
+  "modele": "qwen3:8b"
+ },
+ "K23": {
+  "variante": "v3+consigne",
+  "id": "Q30",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K24": {
+  "variante": "v3+consigne",
+  "id": "Q32",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K25": {
+  "variante": "v3+decoupage",
+  "id": "Q27",
+  "modele": "qwen3:8b"
+ },
+ "K26": {
+  "variante": "v3+consigne",
+  "id": "Q29",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K27": {
+  "variante": "v3+decoupage",
+  "id": "Q34",
+  "modele": "qwen3:8b"
+ },
+ "K28": {
+  "variante": "v3+decoupage",
+  "id": "Q29",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K29": {
+  "variante": "v3+decoupage",
+  "id": "Q28",
+  "modele": "qwen3:8b"
+ },
+ "K30": {
+  "variante": "v3+hybride",
+  "id": "Q25",
+  "modele": "qwen3:8b"
+ },
+ "K31": {
+  "variante": "v3+hybride",
+  "id": "Q32",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K32": {
+  "variante": "v3+decoupage",
+  "id": "Q27",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K33": {
+  "variante": "v3+decoupage",
+  "id": "Q33",
+  "modele": "qwen3:8b"
+ },
+ "K34": {
+  "variante": "v3+hybride",
+  "id": "Q33",
+  "modele": "qwen3:8b"
+ },
+ "K35": {
+  "variante": "v3+decoupage",
+  "id": "Q30",
+  "modele": "qwen3:8b"
+ },
+ "K36": {
+  "variante": "v3+hybride",
+  "id": "Q32",
+  "modele": "qwen3:8b"
+ },
+ "K37": {
+  "variante": "v3+consigne",
+  "id": "Q29",
+  "modele": "qwen3:8b"
+ },
+ "K38": {
+  "variante": "v3+decoupage",
+  "id": "Q26",
+  "modele": "qwen3:8b"
+ },
+ "K39": {
+  "variante": "v3+hybride",
+  "id": "Q30",
+  "modele": "qwen3:8b"
+ },
+ "K40": {
+  "variante": "v3+decoupage",
+  "id": "Q32",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K41": {
+  "variante": "v3+consigne",
+  "id": "Q27",
+  "modele": "qwen3:8b"
+ },
+ "K42": {
+  "variante": "v3+consigne",
+  "id": "Q26",
+  "modele": "qwen3:8b"
+ },
+ "K43": {
+  "variante": "v3+consigne",
+  "id": "Q25",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K44": {
+  "variante": "v3+consigne",
+  "id": "Q25",
+  "modele": "qwen3:8b"
+ },
+ "K45": {
+  "variante": "v3+hybride",
+  "id": "Q33",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K46": {
+  "variante": "v3+hybride",
+  "id": "Q27",
+  "modele": "qwen3:8b"
+ },
+ "K47": {
+  "variante": "v3+hybride",
+  "id": "Q28",
+  "modele": "qwen3:8b"
+ },
+ "K48": {
+  "variante": "v3+hybride",
+  "id": "Q31",
+  "modele": "qwen3:8b"
+ },
+ "K49": {
+  "variante": "v3+consigne",
+  "id": "Q33",
+  "modele": "qwen3:8b"
+ },
+ "K50": {
+  "variante": "v3+hybride",
+  "id": "Q34",
+  "modele": "qwen3:8b"
+ },
+ "K51": {
+  "variante": "v3+decoupage",
+  "id": "Q25",
+  "modele": "qwen3:8b"
+ },
+ "K52": {
+  "variante": "v3+decoupage",
+  "id": "Q26",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K53": {
+  "variante": "v3+consigne",
+  "id": "Q31",
+  "modele": "qwen3:8b"
+ },
+ "K54": {
+  "variante": "v3+consigne",
+  "id": "Q31",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K55": {
+  "variante": "v3+decoupage",
+  "id": "Q25",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K56": {
+  "variante": "v3+hybride",
+  "id": "Q30",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K57": {
+  "variante": "v3+hybride",
+  "id": "Q29",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K58": {
+  "variante": "v3+decoupage",
+  "id": "Q31",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "K59": {
+  "variante": "v3+decoupage",
+  "id": "Q31",
+  "modele": "qwen3:8b"
+ },
+ "K60": {
+  "variante": "v3+consigne",
+  "id": "Q34",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ }
+}

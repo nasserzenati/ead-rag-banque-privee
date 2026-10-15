@@ -1,0 +1,242 @@
+[
+ {
+  "item": "L01",
+  "exactitude": 0,
+  "hallucination": "oui",
+  "commentaire": "Invente « montant maximal de CHF 100'000 selon l'extrait [1] » pour un cadeau, alors que [1] (FAQ brouillon) parle du seuil de communication au MROS, sans rapport avec les cadeaux."
+ },
+ {
+  "item": "L02",
+  "exactitude": 0,
+  "hallucination": "oui",
+  "commentaire": "Affirme « plafond de CHF 100'000 (source [3], art. 2.4) » : [3] (P-PAY-03 art. 2) ne parle que de virements de plus de CHF 50'000 vers des pays à haut risque et ne mentionne ni esisuisse ni un art. 2.4."
+ },
+ {
+  "item": "L03",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L04",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L05",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L06",
+  "exactitude": 1,
+  "hallucination": "non",
+  "commentaire": "Finit par un refus, mais ajoute des généralités non sourcées (« fixée en fonction des politiques internes », « pas de limite spécifique définie par la loi suisse ») ; la description de [5] est correcte."
+ },
+ {
+  "item": "L07",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L08",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L09",
+  "exactitude": 0,
+  "hallucination": "oui",
+  "commentaire": "Dit ne pas trouver l'OPDo mais attribue à tort à la circulaire FINMA 2023/1 « les exceptions pour les entreprises de moins de 250 collaborateurs », qui figurent en réalité à l'art. 12 al. 5 LPD (extrait [1])."
+ },
+ {
+  "item": "L10",
+  "exactitude": 0,
+  "hallucination": "oui",
+  "commentaire": "Invente une durée de conservation « d'au moins 30 jours » attribuée à la grille tarifaire T-01 art. 2 [3], qui ne traite que des droits de garde de titres."
+ },
+ {
+  "item": "L11",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L12",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L13",
+  "exactitude": 1,
+  "hallucination": "oui",
+  "commentaire": "Refuse sur la question posée, mais attribue à l'art. 4 D-KYC-07 une pré-approbation Compliance pour « any transaction of more than CHF 100'000 », alors que l'extrait [1] la limite aux transactions de clients PEP."
+ },
+ {
+  "item": "L14",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L15",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L16",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L17",
+  "exactitude": 0,
+  "hallucination": "oui",
+  "commentaire": "Affirme une entrée en vigueur de Bâle III final au « 1er janvier 2024 » selon [3], alors que cette date est celle de l'entrée en vigueur de la circulaire FINMA 2023/1 elle-même."
+ },
+ {
+  "item": "L18",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L19",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus explicite accompagné d'une simple orientation générale vers la SIX, sans chiffre ni fait précis."
+ },
+ {
+  "item": "L20",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L21",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L22",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L23",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L24",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L25",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L26",
+  "exactitude": 0,
+  "hallucination": "oui",
+  "commentaire": "Malgré le refus final, affirme que P-PAY-03 art. 2 « requiert une majoration de marge de change » pour les pays à haut risque, règle absente de l'extrait [1]."
+ },
+ {
+  "item": "L27",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L28",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L29",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L30",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L31",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L32",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L33",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair en allemand (« Ich finde diese Information in den verfügbaren Dokumenten nicht »), aucun fait avancé."
+ },
+ {
+  "item": "L34",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L35",
+  "exactitude": 0,
+  "hallucination": "oui",
+  "commentaire": "Présente les facteurs d'importance d'une application d'IA de la Communication FINMA 08/2024 [4] comme « critères » définissant un client institutionnel et invente une définition (« taille, structure, objectifs d'investissement »)."
+ },
+ {
+  "item": "L36",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L37",
+  "exactitude": 0,
+  "hallucination": "oui",
+  "commentaire": "Affirme que « l'OPDo prévoit un seuil de 250 collaborateurs » en citant [5], qui est l'art. 12 LPD ; l'OPDo ne figure pas dans les extraits."
+ },
+ {
+  "item": "L38",
+  "exactitude": 1,
+  "hallucination": "non",
+  "commentaire": "Donne le chiffre de 250 collaborateurs, présent à l'art. 12 al. 5 LPD [1], mais ne dit pas que l'OPDo est absente des documents et omet la condition de risque limité."
+ },
+ {
+  "item": "L39",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair (« Je ne trouve pas cette information dans les documents disponibles »), aucun fait avancé."
+ },
+ {
+  "item": "L40",
+  "exactitude": 2,
+  "hallucination": "non",
+  "commentaire": "Refus clair en anglais (« I cannot find this information in the available documents »), aucun fait avancé."
+ }
+]

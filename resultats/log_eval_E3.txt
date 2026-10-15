@@ -1,0 +1,220 @@
+=== E3 — démarrage 11.10.2026 20:04
+f126fd0d0596bcca5bc457b381b10dda2b377fb766e7b3a9f035a4d464051262  questions_E3_hors_corpus.csv
+d274588c955ad8a3d096b4530cb43db1a20be1a9a17449bf9889bca403287f62  PROTOCOLE_EVAL_E3_2026-10-11.md
+ÉTAPE 1/2 : E3-a — questions hors corpus (v1 et v4)
+
+>>> rag_test.py --pipeline v1 --tag E3-hors-corpus
+[1/20] H01 hors_corpus — apertus:8b-instruct-2509-q4_k_m
+[2/20] H01 hors_corpus — qwen3:8b
+[3/20] H02 hors_corpus — apertus:8b-instruct-2509-q4_k_m
+[4/20] H02 hors_corpus — qwen3:8b
+[5/20] H03 hors_corpus — apertus:8b-instruct-2509-q4_k_m
+[6/20] H03 hors_corpus — qwen3:8b
+[7/20] H04 hors_corpus — apertus:8b-instruct-2509-q4_k_m
+[8/20] H04 hors_corpus — qwen3:8b
+[9/20] H05 hors_corpus — apertus:8b-instruct-2509-q4_k_m
+[10/20] H05 hors_corpus — qwen3:8b
+[11/20] H06 hors_corpus — apertus:8b-instruct-2509-q4_k_m
+[12/20] H06 hors_corpus — qwen3:8b
+[13/20] H07 hors_corpus — apertus:8b-instruct-2509-q4_k_m
+[14/20] H07 hors_corpus — qwen3:8b
+[15/20] H08 hors_corpus — apertus:8b-instruct-2509-q4_k_m
+[16/20] H08 hors_corpus — qwen3:8b
+[17/20] H09 hors_corpus_proche — apertus:8b-instruct-2509-q4_k_m
+[18/20] H09 hors_corpus_proche — qwen3:8b
+[19/20] H10 hors_corpus_proche — apertus:8b-instruct-2509-q4_k_m
+[20/20] H10 hors_corpus_proche — qwen3:8b
+
+Résultats : ~/Documents/EAD_RAG/resultats/resultats_2026-10-11_2004_v1_acl_E3-hors-corpus.csv
+Journal d'audit : ~/Documents/EAD_RAG/resultats/journal_2026-10-11_2004_v1_acl_E3-hors-corpus.jsonl
+
+MichelRosselli/apertus:8b-instruct-2509-q4_k_m
+  durée moyenne : 22.1 s
+  réponses avec au moins une citation : 0/10
+  hors corpus correctement refusées : 8/8
+  citations corrigées : 0, douteuses signalées : 0, liens supprimés : 0
+  taux de recopie moyen : 0 %
+  réponses contenant un marqueur interdit : 0
+qwen3:8b
+  durée moyenne : 22.1 s
+  réponses avec au moins une citation : 1/10
+  hors corpus correctement refusées : 8/8
+  citations corrigées : 0, douteuses signalées : 0, liens supprimés : 0
+  taux de recopie moyen : 0 %
+  réponses contenant un marqueur interdit : 0
+
+À faire : ouvrir le CSV dans Excel et remplir les colonnes note_exactitude_0a2 et note_citation_0a1.
+
+>>> rag_test.py --pipeline v4 --tag E3-hors-corpus
+[1/20] H01 hors_corpus — apertus:8b-instruct-2509-q4_k_m
+[2/20] H01 hors_corpus — qwen3:8b
+[3/20] H02 hors_corpus — apertus:8b-instruct-2509-q4_k_m
+[4/20] H02 hors_corpus — qwen3:8b
+[5/20] H03 hors_corpus — apertus:8b-instruct-2509-q4_k_m
+[6/20] H03 hors_corpus — qwen3:8b
+[7/20] H04 hors_corpus — apertus:8b-instruct-2509-q4_k_m
+[8/20] H04 hors_corpus — qwen3:8b
+[9/20] H05 hors_corpus — apertus:8b-instruct-2509-q4_k_m
+[10/20] H05 hors_corpus — qwen3:8b
+[11/20] H06 hors_corpus — apertus:8b-instruct-2509-q4_k_m
+[12/20] H06 hors_corpus — qwen3:8b
+[13/20] H07 hors_corpus — apertus:8b-instruct-2509-q4_k_m
+[14/20] H07 hors_corpus — qwen3:8b
+[15/20] H08 hors_corpus — apertus:8b-instruct-2509-q4_k_m
+[16/20] H08 hors_corpus — qwen3:8b
+[17/20] H09 hors_corpus_proche — apertus:8b-instruct-2509-q4_k_m
+[18/20] H09 hors_corpus_proche — qwen3:8b
+[19/20] H10 hors_corpus_proche — apertus:8b-instruct-2509-q4_k_m
+[20/20] H10 hors_corpus_proche — qwen3:8b
+
+Résultats : ~/Documents/EAD_RAG/resultats/resultats_2026-10-11_2011_v4_acl_E3-hors-corpus.csv
+Journal d'audit : ~/Documents/EAD_RAG/resultats/journal_2026-10-11_2011_v4_acl_E3-hors-corpus.jsonl
+
+MichelRosselli/apertus:8b-instruct-2509-q4_k_m
+  durée moyenne : 29.4 s
+  réponses avec au moins une citation : 8/10
+  hors corpus correctement refusées : 3/8
+  citations corrigées : 0, douteuses signalées : 1, liens supprimés : 0
+  taux de recopie moyen : 4 %
+  réponses contenant un marqueur interdit : 0
+qwen3:8b
+  durée moyenne : 20.5 s
+  réponses avec au moins une citation : 1/10
+  hors corpus correctement refusées : 8/8
+  citations corrigées : 0, douteuses signalées : 0, liens supprimés : 0
+  taux de recopie moyen : 0 %
+  réponses contenant un marqueur interdit : 0
+Aegis : 68 refus, 29 blocages firewall, 0 sorties assainies, 0 PII masquées ; chaîne d'audit intègre (796 événements)
+
+À faire : ouvrir le CSV dans Excel et remplir les colonnes note_exactitude_0a2 et note_citation_0a1.
+ÉTAPE 2/2 : E3-b — ablation par composant (v3 + un composant)
+
+>>> rag_test.py --pipeline v3 --ids Q25,Q26,Q27,Q28,Q29,Q30,Q31,Q32,Q33,Q34 --tag E3-v3+decoupage
+[1/20] Q25 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+[2/20] Q25 precision_alinea — qwen3:8b
+[3/20] Q26 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+[4/20] Q26 precision_alinea — qwen3:8b
+[5/20] Q27 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+[6/20] Q27 precision_alinea — qwen3:8b
+[7/20] Q28 premisse_fausse — apertus:8b-instruct-2509-q4_k_m
+[8/20] Q28 premisse_fausse — qwen3:8b
+[9/20] Q29 premisse_fausse — apertus:8b-instruct-2509-q4_k_m
+[10/20] Q29 premisse_fausse — qwen3:8b
+[11/20] Q30 contrefactuel — apertus:8b-instruct-2509-q4_k_m
+[12/20] Q30 contrefactuel — qwen3:8b
+[13/20] Q31 integration — apertus:8b-instruct-2509-q4_k_m
+[14/20] Q31 integration — qwen3:8b
+[15/20] Q32 extraction — apertus:8b-instruct-2509-q4_k_m
+[16/20] Q32 extraction — qwen3:8b
+[17/20] Q33 extraction — apertus:8b-instruct-2509-q4_k_m
+[18/20] Q33 extraction — qwen3:8b
+[19/20] Q34 multilingue — apertus:8b-instruct-2509-q4_k_m
+[20/20] Q34 multilingue — qwen3:8b
+
+Résultats : ~/Documents/EAD_RAG/resultats/resultats_2026-10-11_2020_v3_acl_E3-v3decoupage.csv
+Journal d'audit : ~/Documents/EAD_RAG/resultats/journal_2026-10-11_2020_v3_acl_E3-v3decoupage.jsonl
+
+MichelRosselli/apertus:8b-instruct-2509-q4_k_m
+  durée moyenne : 26.9 s
+  réponses avec au moins une citation : 7/10
+  citations corrigées : 3, douteuses signalées : 0, liens supprimés : 0
+  sources attendues dans le top-5 : 8/9
+  taux de recopie moyen : 10 %
+  réponses contenant un marqueur interdit : 1
+qwen3:8b
+  durée moyenne : 28.2 s
+  réponses avec au moins une citation : 8/10
+  citations corrigées : 2, douteuses signalées : 0, liens supprimés : 0
+  sources attendues dans le top-5 : 8/9
+  taux de recopie moyen : 6 %
+  réponses contenant un marqueur interdit : 1
+Aegis : 34 refus, 15 blocages firewall, 0 sorties assainies, 0 PII masquées ; chaîne d'audit intègre (427 événements)
+
+À faire : ouvrir le CSV dans Excel et remplir les colonnes note_exactitude_0a2 et note_citation_0a1.
+
+>>> rag_test.py --pipeline v3 --ids Q25,Q26,Q27,Q28,Q29,Q30,Q31,Q32,Q33,Q34 --tag E3-v3+hybride
+[1/20] Q25 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+[2/20] Q25 precision_alinea — qwen3:8b
+[3/20] Q26 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+[4/20] Q26 precision_alinea — qwen3:8b
+[5/20] Q27 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+[6/20] Q27 precision_alinea — qwen3:8b
+[7/20] Q28 premisse_fausse — apertus:8b-instruct-2509-q4_k_m
+[8/20] Q28 premisse_fausse — qwen3:8b
+[9/20] Q29 premisse_fausse — apertus:8b-instruct-2509-q4_k_m
+[10/20] Q29 premisse_fausse — qwen3:8b
+[11/20] Q30 contrefactuel — apertus:8b-instruct-2509-q4_k_m
+[12/20] Q30 contrefactuel — qwen3:8b
+[13/20] Q31 integration — apertus:8b-instruct-2509-q4_k_m
+[14/20] Q31 integration — qwen3:8b
+[15/20] Q32 extraction — apertus:8b-instruct-2509-q4_k_m
+[16/20] Q32 extraction — qwen3:8b
+[17/20] Q33 extraction — apertus:8b-instruct-2509-q4_k_m
+[18/20] Q33 extraction — qwen3:8b
+[19/20] Q34 multilingue — apertus:8b-instruct-2509-q4_k_m
+[20/20] Q34 multilingue — qwen3:8b
+
+Résultats : ~/Documents/EAD_RAG/resultats/resultats_2026-10-11_2031_v3_acl_E3-v3hybride.csv
+Journal d'audit : ~/Documents/EAD_RAG/resultats/journal_2026-10-11_2031_v3_acl_E3-v3hybride.jsonl
+
+MichelRosselli/apertus:8b-instruct-2509-q4_k_m
+  durée moyenne : 28.4 s
+  réponses avec au moins une citation : 7/10
+  citations corrigées : 2, douteuses signalées : 0, liens supprimés : 0
+  sources attendues dans le top-5 : 7/9
+  taux de recopie moyen : 10 %
+  réponses contenant un marqueur interdit : 1
+qwen3:8b
+  durée moyenne : 27.6 s
+  réponses avec au moins une citation : 8/10
+  citations corrigées : 2, douteuses signalées : 0, liens supprimés : 0
+  sources attendues dans le top-5 : 7/9
+  taux de recopie moyen : 4 %
+  réponses contenant un marqueur interdit : 1
+Aegis : 40 refus, 18 blocages firewall, 0 sorties assainies, 0 PII masquées ; chaîne d'audit intègre (506 événements)
+
+À faire : ouvrir le CSV dans Excel et remplir les colonnes note_exactitude_0a2 et note_citation_0a1.
+
+>>> rag_test.py --pipeline v3 --ids Q25,Q26,Q27,Q28,Q29,Q30,Q31,Q32,Q33,Q34 --tag E3-v3+consigne
+[1/20] Q25 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+[2/20] Q25 precision_alinea — qwen3:8b
+[3/20] Q26 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+[4/20] Q26 precision_alinea — qwen3:8b
+[5/20] Q27 precision_alinea — apertus:8b-instruct-2509-q4_k_m
+[6/20] Q27 precision_alinea — qwen3:8b
+[7/20] Q28 premisse_fausse — apertus:8b-instruct-2509-q4_k_m
+[8/20] Q28 premisse_fausse — qwen3:8b
+[9/20] Q29 premisse_fausse — apertus:8b-instruct-2509-q4_k_m
+[10/20] Q29 premisse_fausse — qwen3:8b
+[11/20] Q30 contrefactuel — apertus:8b-instruct-2509-q4_k_m
+[12/20] Q30 contrefactuel — qwen3:8b
+[13/20] Q31 integration — apertus:8b-instruct-2509-q4_k_m
+[14/20] Q31 integration — qwen3:8b
+[15/20] Q32 extraction — apertus:8b-instruct-2509-q4_k_m
+[16/20] Q32 extraction — qwen3:8b
+[17/20] Q33 extraction — apertus:8b-instruct-2509-q4_k_m
+[18/20] Q33 extraction — qwen3:8b
+[19/20] Q34 multilingue — apertus:8b-instruct-2509-q4_k_m
+[20/20] Q34 multilingue — qwen3:8b
+
+Résultats : ~/Documents/EAD_RAG/resultats/resultats_2026-10-11_2041_v3_acl_E3-v3consigne.csv
+Journal d'audit : ~/Documents/EAD_RAG/resultats/journal_2026-10-11_2041_v3_acl_E3-v3consigne.jsonl
+
+MichelRosselli/apertus:8b-instruct-2509-q4_k_m
+  durée moyenne : 27.7 s
+  réponses avec au moins une citation : 8/10
+  citations corrigées : 8, douteuses signalées : 0, liens supprimés : 0
+  sources attendues dans le top-5 : 7/9
+  taux de recopie moyen : 1 %
+  réponses contenant un marqueur interdit : 1
+qwen3:8b
+  durée moyenne : 25.4 s
+  réponses avec au moins une citation : 8/10
+  citations corrigées : 1, douteuses signalées : 0, liens supprimés : 0
+  sources attendues dans le top-5 : 7/9
+  taux de recopie moyen : 9 %
+  réponses contenant un marqueur interdit : 1
+Aegis : 46 refus, 23 blocages firewall, 0 sorties assainies, 0 PII masquées ; chaîne d'audit intègre (587 événements)
+
+À faire : ouvrir le CSV dans Excel et remplir les colonnes note_exactitude_0a2 et note_citation_0a1.
+=== TERMINÉ 20:50 — prévenir Claude

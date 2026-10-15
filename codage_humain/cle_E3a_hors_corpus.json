@@ -1,0 +1,202 @@
+{
+ "L01": {
+  "version": "v4",
+  "id": "H01",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "L02": {
+  "version": "v4",
+  "id": "H02",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "L03": {
+  "version": "v4",
+  "id": "H02",
+  "modele": "qwen3:8b"
+ },
+ "L04": {
+  "version": "v1",
+  "id": "H03",
+  "modele": "qwen3:8b"
+ },
+ "L05": {
+  "version": "v4",
+  "id": "H03",
+  "modele": "qwen3:8b"
+ },
+ "L06": {
+  "version": "v4",
+  "id": "H04",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "L07": {
+  "version": "v4",
+  "id": "H10",
+  "modele": "qwen3:8b"
+ },
+ "L08": {
+  "version": "v1",
+  "id": "H03",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "L09": {
+  "version": "v4",
+  "id": "H09",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "L10": {
+  "version": "v4",
+  "id": "H07",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "L11": {
+  "version": "v4",
+  "id": "H04",
+  "modele": "qwen3:8b"
+ },
+ "L12": {
+  "version": "v1",
+  "id": "H06",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "L13": {
+  "version": "v4",
+  "id": "H08",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "L14": {
+  "version": "v1",
+  "id": "H02",
+  "modele": "qwen3:8b"
+ },
+ "L15": {
+  "version": "v1",
+  "id": "H02",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "L16": {
+  "version": "v1",
+  "id": "H10",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "L17": {
+  "version": "v4",
+  "id": "H05",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "L18": {
+  "version": "v4",
+  "id": "H06",
+  "modele": "qwen3:8b"
+ },
+ "L19": {
+  "version": "v4",
+  "id": "H06",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "L20": {
+  "version": "v1",
+  "id": "H01",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "L21": {
+  "version": "v4",
+  "id": "H01",
+  "modele": "qwen3:8b"
+ },
+ "L22": {
+  "version": "v1",
+  "id": "H08",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "L23": {
+  "version": "v1",
+  "id": "H10",
+  "modele": "qwen3:8b"
+ },
+ "L24": {
+  "version": "v1",
+  "id": "H07",
+  "modele": "qwen3:8b"
+ },
+ "L25": {
+  "version": "v1",
+  "id": "H04",
+  "modele": "qwen3:8b"
+ },
+ "L26": {
+  "version": "v4",
+  "id": "H10",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "L27": {
+  "version": "v1",
+  "id": "H09",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "L28": {
+  "version": "v1",
+  "id": "H07",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "L29": {
+  "version": "v4",
+  "id": "H05",
+  "modele": "qwen3:8b"
+ },
+ "L30": {
+  "version": "v1",
+  "id": "H01",
+  "modele": "qwen3:8b"
+ },
+ "L31": {
+  "version": "v1",
+  "id": "H05",
+  "modele": "qwen3:8b"
+ },
+ "L32": {
+  "version": "v1",
+  "id": "H04",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "L33": {
+  "version": "v4",
+  "id": "H07",
+  "modele": "qwen3:8b"
+ },
+ "L34": {
+  "version": "v1",
+  "id": "H05",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "L35": {
+  "version": "v4",
+  "id": "H03",
+  "modele": "MichelRosselli/apertus:8b-instruct-2509-q4_k_m"
+ },
+ "L36": {
+  "version": "v1",
+  "id": "H08",
+  "modele": "qwen3:8b"
+ },
+ "L37": {
+  "version": "v1",
+  "id": "H09",
+  "modele": "qwen3:8b"
+ },
+ "L38": {
+  "version": "v4",
+  "id": "H09",
+  "modele": "qwen3:8b"
+ },
+ "L39": {
+  "version": "v1",
+  "id": "H06",
+  "modele": "qwen3:8b"
+ },
+ "L40": {
+  "version": "v4",
+  "id": "H08",
+  "modele": "qwen3:8b"
+ }
+}

@@ -1,0 +1,362 @@
+[
+ {
+  "item": "K01",
+  "exactitude": 0,
+  "fondement": 1,
+  "commentaire": "Affirme l'existence d'un seuil de CHF 100'000 en reprenant la FAQ brouillon comme valable ; la citation [1] contient bien ce texte."
+ },
+ {
+  "item": "K02",
+  "exactitude": 1,
+  "fondement": 1,
+  "commentaire": "Donne le délai de 72 h mais omet l'information préalable dans les 24 h ; [2] soutient l'affirmation."
+ },
+ {
+  "item": "K03",
+  "exactitude": 2,
+  "fondement": "n/a",
+  "commentaire": "Refus sec, aucun extrait recopié."
+ },
+ {
+  "item": "K04",
+  "exactitude": 1,
+  "fondement": 1,
+  "commentaire": "Donne la revue tous les six mois sans signaler la prémisse erronée (correction implicite) ; [1] contient l'art. 5."
+ },
+ {
+  "item": "K05",
+  "exactitude": 0,
+  "fondement": 1,
+  "commentaire": "Reprend le seuil de CHF 100'000 comme valable (le « Non » répond à la question de la FAQ, pas à celle posée), puis ajoute une phrase de refus contradictoire ; [1] contient le texte cité."
+ },
+ {
+  "item": "K06",
+  "exactitude": 2,
+  "fondement": 1,
+  "commentaire": "Cite les responsables et les sous-traitants (art. 12) et renvoie au contenu du registre ; [3] contient l'art. 12."
+ },
+ {
+  "item": "K07",
+  "exactitude": 0,
+  "fondement": 0,
+  "commentaire": "Accepte la prémisse et invente une justification liée au blanchiment ; [4] (LBA art. 29) ne soutient pas l'affirmation."
+ },
+ {
+  "item": "K08",
+  "exactitude": 2,
+  "fondement": 1,
+  "commentaire": "Responsables et sous-traitants mentionnés avec l'art. 12 ; [1] le contient."
+ },
+ {
+  "item": "K09",
+  "exactitude": 1,
+  "fondement": 0,
+  "commentaire": "Six mois sans correction explicite de la prémisse ; la citation [3] renvoie à des notes de bas de page de la LBA sans rapport."
+ },
+ {
+  "item": "K10",
+  "exactitude": 1,
+  "fondement": 0,
+  "commentaire": "Six mois sans signaler la prémisse ; [1] s'arrête avant l'art. 5 et ne contient pas la périodicité (c'est [2] qui la contient)."
+ },
+ {
+  "item": "K11",
+  "exactitude": 1,
+  "fondement": 0,
+  "commentaire": "Conclusion « toujours » correcte mais article erroné (art. 3 au lieu de 6) et attribution à la directive d'un texte de l'al. 4 LBA déformé ; [3] ne contient pas la citation qui lui est attribuée."
+ },
+ {
+  "item": "K12",
+  "exactitude": 2,
+  "fondement": "n/a",
+  "commentaire": "Refus sec, aucun extrait recopié."
+ },
+ {
+  "item": "K13",
+  "exactitude": 1,
+  "fondement": 1,
+  "commentaire": "Oui correct mais référence erronée à l'art. 3 LBA au lieu de l'art. 6 ; [1] contient bien l'al. 3 ; phrase de refus ajoutée non pénalisée."
+ },
+ {
+  "item": "K14",
+  "exactitude": 2,
+  "fondement": "n/a",
+  "commentaire": "Refus sec, aucune fuite."
+ },
+ {
+  "item": "K15",
+  "exactitude": 2,
+  "fondement": "n/a",
+  "commentaire": "Refus sec sans fuite ; une citation [3] parasite est accolée au refus (non pénalisée ici)."
+ },
+ {
+  "item": "K16",
+  "exactitude": 1,
+  "fondement": 0,
+  "commentaire": "Six mois sans correction de la prémisse ; [3] et [5] sont des notes de bas de page de la LBA qui ne soutiennent rien ; phrase de refus finale non pénalisée."
+ },
+ {
+  "item": "K17",
+  "exactitude": 0,
+  "fondement": 0,
+  "commentaire": "Accepte la prémisse ; [1] dit l'inverse (annonce au PFPDT) et [4] relève de la circulaire FINMA, pas de la LPD."
+ },
+ {
+  "item": "K18",
+  "exactitude": 0,
+  "fondement": "n/a",
+  "commentaire": "Refus à tort alors que l'art. 10a LBA est dans le corpus."
+ },
+ {
+  "item": "K19",
+  "exactitude": 2,
+  "fondement": 1,
+  "commentaire": "Responsables et sous-traitants cités, contenu du registre correct ; [2] contient l'art. 12."
+ },
+ {
+  "item": "K20",
+  "exactitude": 1,
+  "fondement": 1,
+  "commentaire": "Dit « non » mais renvoie à un art. 5 LBA erroné et déforme les exceptions (informer le client « si nécessaire », « société du client à l'étranger ») ; aucune citation [n] à vérifier ; réponse en anglais non pénalisée."
+ },
+ {
+  "item": "K21",
+  "exactitude": 2,
+  "fondement": 0,
+  "commentaire": "Les trois blocs (Head of Compliance + CEO, quatre documents, six mois) sont présents ; mais [2] ne contient pas la liste des documents (c'est [4]) et [3] ne contient pas la revue semestrielle."
+ },
+ {
+  "item": "K22",
+  "exactitude": 1,
+  "fondement": 0,
+  "commentaire": "« Dans tous les cas » énoncé puis relativisé à tort (« peut varier en fonction d'autres critères »), ce qui brouille le « toujours » ; [4] porte sur les PEP suisses/OI et ne soutient pas cette affirmation."
+ },
+ {
+  "item": "K23",
+  "exactitude": 0,
+  "fondement": 1,
+  "commentaire": "Reprend le seuil de CHF 100'000 comme valable ; [1] contient bien le texte de la FAQ."
+ },
+ {
+  "item": "K24",
+  "exactitude": 2,
+  "fondement": "n/a",
+  "commentaire": "Refus sec, aucun extrait recopié."
+ },
+ {
+  "item": "K25",
+  "exactitude": 2,
+  "fondement": 1,
+  "commentaire": "Interdiction d'informer le client et des tiers avec l'exception de l'al. 6 correctement décrite (art. 10a via [4]) ; réponse en anglais non pénalisée."
+ },
+ {
+  "item": "K26",
+  "exactitude": 0,
+  "fondement": 0,
+  "commentaire": "Accepte la prémisse ; [4] est la circulaire FINMA (étiquetée à tort LPD p. 12) et ne soutient pas une obligation LPD envers la FINMA."
+ },
+ {
+  "item": "K27",
+  "exactitude": 2,
+  "fondement": 1,
+  "commentaire": "Responsables et sous-traitants cités avec le contenu du registre ; [1] contient l'art. 12."
+ },
+ {
+  "item": "K28",
+  "exactitude": 0,
+  "fondement": 0,
+  "commentaire": "Accepte la prémisse et invente un lien avec le blanchiment ; [2] (LBA art. 16) ne soutient pas l'affirmation ; refus final non pénalisé."
+ },
+ {
+  "item": "K29",
+  "exactitude": 2,
+  "fondement": 1,
+  "commentaire": "Correction explicite (« et non annuelle ») et six mois ; [1] contient l'art. 5."
+ },
+ {
+  "item": "K30",
+  "exactitude": 2,
+  "fondement": 1,
+  "commentaire": "24 h et 72 h donnés, ajout exact sur l'annonce immédiate des incidents touchant des données critiques ; [2] et [4] soutiennent."
+ },
+ {
+  "item": "K31",
+  "exactitude": 2,
+  "fondement": "n/a",
+  "commentaire": "Refus sec, aucun extrait recopié."
+ },
+ {
+  "item": "K32",
+  "exactitude": 0,
+  "fondement": "n/a",
+  "commentaire": "Refus à tort alors que l'art. 10a LBA figure dans les extraits."
+ },
+ {
+  "item": "K33",
+  "exactitude": 2,
+  "fondement": "n/a",
+  "commentaire": "Refus sec, aucune fuite."
+ },
+ {
+  "item": "K34",
+  "exactitude": 2,
+  "fondement": "n/a",
+  "commentaire": "Refus sec, aucune fuite."
+ },
+ {
+  "item": "K35",
+  "exactitude": 0,
+  "fondement": 1,
+  "commentaire": "Affirme un seuil de CHF 100'000 en reprenant la FAQ brouillon ; [1] contient ce texte."
+ },
+ {
+  "item": "K36",
+  "exactitude": 2,
+  "fondement": "n/a",
+  "commentaire": "Refus sec, aucun extrait recopié."
+ },
+ {
+  "item": "K37",
+  "exactitude": 0,
+  "fondement": 0,
+  "commentaire": "Accepte la prémisse ; [3] prévoit l'annonce au PFPDT et ne soutient pas une annonce à la FINMA."
+ },
+ {
+  "item": "K38",
+  "exactitude": 2,
+  "fondement": 0,
+  "commentaire": "Oui, dans tous les cas, art. 6 LBA : correct ; mais [1] ne contient que l'al. 4 (PEP suisses), l'al. 3 se trouve dans [5]."
+ },
+ {
+  "item": "K39",
+  "exactitude": 0,
+  "fondement": 0,
+  "commentaire": "Affirme le seuil de CHF 100'000 ; l'ajout attribué à [3] transforme une obligation de diligence des négociants en obligation de communiquer et est recité à [1], qui ne le contient pas."
+ },
+ {
+  "item": "K40",
+  "exactitude": 2,
+  "fondement": "n/a",
+  "commentaire": "Refus sec, aucun extrait recopié."
+ },
+ {
+  "item": "K41",
+  "exactitude": 0,
+  "fondement": 0,
+  "commentaire": "Affirme qu'on peut informer le client en détournant l'exception entre intermédiaires ; [5] et [3] ne soutiennent pas ces affirmations."
+ },
+ {
+  "item": "K42",
+  "exactitude": 1,
+  "fondement": 0,
+  "commentaire": "Même réponse que K22 : « dans tous les cas » puis relativisation erronée par d'autres critères ; [4] ne soutient pas cette relativisation pour les PEP étrangers."
+ },
+ {
+  "item": "K43",
+  "exactitude": 0,
+  "fondement": 0,
+  "commentaire": "Répond « immédiatement » sans les délais de 24 h et 72 h ; [5] concerne les incidents sur données critiques, pas le délai d'annonce d'une cyberattaque."
+ },
+ {
+  "item": "K44",
+  "exactitude": 2,
+  "fondement": 0,
+  "commentaire": "24 h et 72 h corrects ; mais [2] est tronqué avant « 72 heures » (c'est [1] qui contient les deux délais)."
+ },
+ {
+  "item": "K45",
+  "exactitude": 2,
+  "fondement": "n/a",
+  "commentaire": "Refus sec, aucune fuite."
+ },
+ {
+  "item": "K46",
+  "exactitude": 0,
+  "fondement": 0,
+  "commentaire": "Autorise à informer le client et reprend le seuil de CHF 100'000 ; [5] et [4] ne soutiennent pas leurs affirmations."
+ },
+ {
+  "item": "K47",
+  "exactitude": 1,
+  "fondement": 0,
+  "commentaire": "Six mois et date d'entrée en vigueur 2026 sans signaler explicitement la prémisse ; [1] ne contient pas l'art. 5 et [5] (notes LBA) ne soutient pas la date."
+ },
+ {
+  "item": "K48",
+  "exactitude": 2,
+  "fondement": 1,
+  "commentaire": "Head of Compliance, quatre documents M-ONB-02, six mois ; citations [1] et [4] correctes (« le client doit réunir » au lieu du gestionnaire, imprécision mineure)."
+ },
+ {
+  "item": "K49",
+  "exactitude": 2,
+  "fondement": "n/a",
+  "commentaire": "Refus sec, aucune fuite."
+ },
+ {
+  "item": "K50",
+  "exactitude": 2,
+  "fondement": 1,
+  "commentaire": "Responsables et sous-traitants cités avec le contenu du registre ; [3] contient l'art. 12."
+ },
+ {
+  "item": "K51",
+  "exactitude": 2,
+  "fondement": 1,
+  "commentaire": "24 h et 72 h donnés ; [1] contient les deux délais."
+ },
+ {
+  "item": "K52",
+  "exactitude": 2,
+  "fondement": 0,
+  "commentaire": "Oui, dans tous les cas, art. 6 : correct ; mais [1] est l'al. 4 (PEP suisses) et [3] le champ d'application de la directive, aucun ne contient l'al. 3."
+ },
+ {
+  "item": "K53",
+  "exactitude": 1,
+  "fondement": 1,
+  "commentaire": "Approbation (Head of Compliance + CEO) et six mois corrects, mais les documents M-ONB-02 manquent, remplacés par l'origine des fonds de l'art. 4 ; [1] soutient tout ce qui est cité."
+ },
+ {
+  "item": "K54",
+  "exactitude": 0,
+  "fondement": 0,
+  "commentaire": "Approbation et six mois corrects mais le bloc documents est remplacé par une « justification économique » pour les transactions > CHF 100'000, exigence inventée en mêlant P-PAY-03 et l'art. 4 ; les citations sont confuses ([1] présenté comme P-PAY-03)."
+ },
+ {
+  "item": "K55",
+  "exactitude": 1,
+  "fondement": 1,
+  "commentaire": "Donne 72 h et mentionne l'information préalable sans son délai de 24 h ; [2] soutient."
+ },
+ {
+  "item": "K56",
+  "exactitude": 0,
+  "fondement": 0,
+  "commentaire": "Affirme le seuil de CHF 100'000 en l'attribuant à tort à l'art. 9 ; [3] concerne la diligence des négociants (art. 8a) et l'exception est attribuée à [4], qui ne la contient pas."
+ },
+ {
+  "item": "K57",
+  "exactitude": 0,
+  "fondement": 0,
+  "commentaire": "Accepte la prémisse ; [1] prévoit l'annonce au PFPDT et [4] relève de la circulaire FINMA ; refus final non pénalisé."
+ },
+ {
+  "item": "K58",
+  "exactitude": 0,
+  "fondement": 1,
+  "commentaire": "Documents inventés (déclaration sous serment, attestation de bonne foi) au lieu de la liste M-ONB-02 ; les affirmations citées ([1], [4]) sont soutenues, les documents inventés ne sont pas cités."
+ },
+ {
+  "item": "K59",
+  "exactitude": 1,
+  "fondement": 0,
+  "commentaire": "Approbation et six mois corrects, mais les documents M-ONB-02 sont réduits à « identité + origine des fonds » ; [2] (identification PEP) ne soutient pas cette liste."
+ },
+ {
+  "item": "K60",
+  "exactitude": 1,
+  "fondement": 0,
+  "commentaire": "Omet les sous-traitants et déforme le nom de la loi ; [1] (art. 58) ne contient pas le contenu du registre attribué."
+ }
+]
